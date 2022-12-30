@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alexis Diaz",
+        "profession": "Developer Junior",
+        "photo": "url de foto",
+        "about_me": "Soy un estusiasta de las tecnologías, amo hacer desarrollo web y confío en la colaboración de mi equipo",
+        "skills": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "NodeJs"
+        ]
+    }
+]
